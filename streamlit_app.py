@@ -22,4 +22,4 @@ if st.button("Submit"):
             subject=email_subject, 
             text=email_body
             )
-        st.write(f"Email sent!")
+        st.success(f"Email sent!")
