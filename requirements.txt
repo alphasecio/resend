@@ -1,2 +1,2 @@
 streamlit==1.28.0
-resend==0.5.2
+resend==0.6.0
