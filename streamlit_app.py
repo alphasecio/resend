@@ -3,7 +3,7 @@ import streamlit as st
 
 # Set up the Streamlit app
 with st.sidebar:
-    resend_api_key = st.text_input("Resend API Key")
+    resend_api_key = st.text_input("Resend API Key", type="password")
 st.subheader("Send Email")
 email_from = st.text_input("From", "")
 email_to = st.text_input("To", "")
