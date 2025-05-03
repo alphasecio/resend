@@ -1,7 +1,7 @@
 # resend
 A sample [Streamlit](https://streamlit.io/) web application for sending emails using [Resend](https://resend.com/).
 
-<img src="./streamlit-resend.png" alt="streamlit-resend" height="300"/>
+<img src="./streamlit-resend.png" alt="streamlit-resend"/>
 
 ## Installation
 To run this application locally, you'll need to have Python 3.x installed on your machine. You can clone this repository and install the required Python packages by running the following commands:
