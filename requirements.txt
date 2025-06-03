@@ -1,2 +1,2 @@
-streamlit==1.45.0
+streamlit==1.45.1
 resend==2.8.0
