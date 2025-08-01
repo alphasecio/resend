@@ -1,2 +1,2 @@
 streamlit==1.46.1
-resend==2.10.0
+resend==2.11.0
